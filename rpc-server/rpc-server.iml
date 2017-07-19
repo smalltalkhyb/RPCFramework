@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<module type="JAVA_MODULE" version="4"> 
+  <component name="NewModuleRootManager" inherit-compiler-output="true"> 
+    <exclude-output/>  
+    <content url="file://$MODULE_DIR$"> 
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/target"/>
+    </content>  
+    <orderEntry type="inheritedJdk"/>  
+    <orderEntry type="sourceFolder" forTests="false"/>  
+    <output url="file://$MODULE_DIR$/target/classes"/>  
+    <output-test url="file://$MODULE_DIR$/target/test-classes"/>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/springframework/spring-context/4.1.5.RELEASE/spring-context-4.1.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/springframework/spring-aop/4.1.5.RELEASE/spring-aop-4.1.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/springframework/spring-core/4.1.5.RELEASE/spring-core-4.1.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/springframework/spring-expression/4.1.5.RELEASE/spring-expression-4.1.5.RELEASE.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/cglib/cglib/3.1/cglib-3.1.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/ow2/asm/asm/4.2/asm-4.2.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module" module-name="rpc-common"/>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/com/dyuproject/protostuff/protostuff-core/1.0.9/protostuff-core-1.0.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/com/dyuproject/protostuff/protostuff-api/1.0.9/protostuff-api-1.0.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/com/dyuproject/protostuff/protostuff-runtime/1.0.9/protostuff-runtime-1.0.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/com/dyuproject/protostuff/protostuff-collectionschema/1.0.9/protostuff-collectionschema-1.0.9.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/objenesis/objenesis/2.1/objenesis-2.1.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/apache/commons/commons-collections4/4.0/commons-collections4-4.0.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/io/netty/netty-all/4.0.26.Final/netty-all-4.0.26.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module" module-name="rpc-registry-zookeeper"/>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/org/apache/zookeeper/zookeeper/3.4.6/zookeeper-3.4.6.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/jline/jline/0.9.94/jline-0.9.94.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry scope="TEST" type="module-library"> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES> 
+          <root url="jar://C:/Users/hyb/.m2/repository/io/netty/netty/3.7.0.Final/netty-3.7.0.Final-sources.jar!/"/>
+        </SOURCES>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module-library" exported=""> 
+      <library> 
+        <SOURCES/>  
+        <CLASSES>
+          <root url="jar://C:/Users/hyb/.m2/repository/com/101tec/zkclient/0.4/zkclient-0.4.jar!/"/>
+        </CLASSES>
+      </library> 
+    </orderEntry>  
+    <orderEntry type="module" module-name="rpc-registry"/> 
+  </component> 
+</module>
